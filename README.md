@@ -7,11 +7,11 @@
 </div>
 
 **Welcome to my page!** <br>
-**I'm Arram**, Fullstack developer from Bangkok, Thailand, currently living in  Bangkok, Thailand.
+**I'm jakkapanthongkam**, Fullstack developer from Phuket, Thailand, currently living in  Phuket, Thailand.
 
 ### Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,html,css,vue,nuxt,nestjs,flutter,laravel,docker,mysql,discord,github,idea,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,terraform,typescript,html,css,vue,nuxt,nestjs,flutter,laravel,docker,mysql,discord,github,idea,vscode)](https://skillicons.dev)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakkapanthongkam&show_icons=true&theme=radical)
 
