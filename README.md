@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @jakkapanthongkam
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<div align="center">
+<h1>Hello World 👋, Nice to see you.</h1>
+</div>
 
-<!---
-jakkapanthongkam/jakkapanthongkam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+  <img src="https://count.getloli.com/get/@:arram.s" alt=":arram.s" />
+</div>
+
+**Welcome to my page!** <br>
+**I'm Arram**, Fullstack developer from Bangkok, Thailand, currently living in  Bangkok, Thailand.
+
+### Languages and Tools:
+
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,html,css,vue,nuxt,nestjs,flutter,laravel,docker,mysql,discord,github,idea,vscode)](https://skillicons.dev)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=armmroorm1998&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=armmroorm1998&layout=compact)](https://github.com/armmroorm1998)
