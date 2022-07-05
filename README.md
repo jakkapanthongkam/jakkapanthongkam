@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://count.getloli.com/get/@:arram.s" alt=":arram.s" />
+  <img src="https://count.getloli.com/get/@:jakkapanthongkam" alt=":jakkapanthongkam" />
 </div>
 
 **Welcome to my page!** <br>
